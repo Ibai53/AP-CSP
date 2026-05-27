@@ -1,4 +1,5 @@
 # AP-CSP
+This repository contains a few of the largest projects that I worked on during my AP CSP class at Jones College Prep. All of the code is in Python and written by me.
 
 IMDB.csv: Dataset for the movie.py function
 
